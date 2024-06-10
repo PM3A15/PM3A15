@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+Eu sou o João 
+tenho 17 anos
+faço alura por obrigação
 <!--
 **PM3A15/PM3A15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
